@@ -237,7 +237,7 @@ module.exports = function (grunt) {
                 ]
             }
         },
-        //zip: {
+        // zip: {
          //   standalone: {
         //        cwd: "build/prod/",
         //        src: [
